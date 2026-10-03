@@ -1,0 +1,11 @@
+# Emerald Case — top bar
+# Keep the bar understated: cool green-white text and emerald active states.
+
+background       = "#090c0a"
+background-alpha = 0.78
+text             = "#b9c7bf"
+active           = "#49f397"
+
+scale-with-font  = true
+size-horizontal  = 26
+size-vertical    = 28
