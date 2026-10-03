@@ -49,11 +49,11 @@ Then select **Emerald Case** from Omarchy's theme picker.
 └── README.md
 ```
 
-Omarchy generates the terminal, Hyprland, editor, browser, and related app colors from `colors.toml`. Emerald Case also ships supported `shell.<section>.toml` overrides for launcher, menus, notifications, popups, tooltips, shared controls, and the lock screen, keeping the base palette intact while adding the theme's noir/emerald surface treatment.
+Omarchy generates the terminal, Hyprland, editor, browser, and related app colors from `colors.toml`. Emerald Case also ships supported `shell.<section>.toml` overrides for launcher, menus, notifications, popups, tooltips, shared controls, and the lock screen, plus a dedicated `chromium.theme` tint for Brave/Chrome. Zed follows the palette through Omazed, Neovim through Aether, and Foot through the generated ANSI palette.
 
 ## Status
 
-Active development preview. The theme is being tested on a real Omarchy desktop, including 2K wallpapers, the terminal ANSI palette, Emerald Case shell surfaces for launcher, menus, notifications, controls, lock screen, top bar, authentication dialogs, image picker, and shared Hyprland border tokens. The final registry `preview.png` is still pending.
+Active development preview. The theme is being tested on a real Omarchy desktop, including 2K wallpapers, terminal ANSI colors, shell surfaces, top bar, authentication dialogs, image picker, Chromium-family browsers, Zed through Omazed, Neovim through Aether, and Foot. The final registry `preview.png` is still pending.
 
 ## Artwork
 
