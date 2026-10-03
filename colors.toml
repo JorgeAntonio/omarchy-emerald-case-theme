@@ -21,7 +21,7 @@ yellow = "#d2ad5d"
 orange = "#c27b48"
 green = "#31d67b"
 cyan = "#55a89b"
-blue = "#5f8fa3"
+blue = "#4f8f83"
 magenta = "#9a7fab"
 brown = "#7d644c"
 
@@ -29,7 +29,7 @@ bright_red = "#ed7f84"
 bright_yellow = "#e9c674"
 bright_green = "#49f397"
 bright_cyan = "#72c8b0"
-bright_blue = "#7fb3c5"
+bright_blue = "#6fb69e"
 bright_magenta = "#b79ac7"
 
 # Subtle emerald-to-deep-green active border used by Hyprland and shell surfaces.
