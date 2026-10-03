@@ -17,13 +17,16 @@ Emerald Case avoids turning the whole desktop neon green. Most surfaces stay cha
 | Background | `#0d110e` |
 | Dark background | `#090c0a` |
 | Deepest background | `#050706` |
-| Foreground | `#cfd6d1` |
-| Muted | `#536158` |
+| Foreground | `#c9d2cc` |
+| Muted | `#5d6b62` |
 | Accent | `#2fe07b` |
-| Bright emerald | `#46ff92` |
-| Dust / brown | `#725c46` |
-| Warning | `#c7a663` |
-| Urgent | `#c85d62` |
+| Bright emerald | `#49f397` |
+| Cyan / links | `#55a89b` |
+| Steel blue / directories | `#5f8fa3` |
+| Warning amber | `#d2ad5d` |
+| Urgent | `#cf666b` |
+
+The ANSI palette is intentionally more colorful than the shell surfaces: directories lean steel-teal, executables and success states use emerald, links use cyan, warnings use amber, and errors use a muted red.
 
 ## Install
 
@@ -50,7 +53,7 @@ Omarchy generates the terminal, shell, Hyprland, editor, browser, and related ap
 
 ## Status
 
-Early development preview. The palette is usable, but live desktop testing and the final registry `preview.png` are still pending.
+Active development preview. The theme is being tested on a real Omarchy desktop, including 2K wallpapers and the terminal ANSI palette. The final registry `preview.png` is still pending.
 
 ## Artwork
 
