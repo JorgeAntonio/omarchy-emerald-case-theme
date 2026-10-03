@@ -1,0 +1,8 @@
+# Wallpaper / image carousel
+scrim                   = "#050706"
+scrim-alpha             = 0.62
+text                    = "#c9d2cc"
+selected-border         = "#49f397"
+selected-border-alpha   = 0.92
+unselected-border       = "#718077"
+unselected-border-alpha = 0.24
