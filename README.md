@@ -6,6 +6,8 @@ The visual direction is inspired by the grounded detective atmosphere associated
 
 > Darkness · Dust · Will
 
+![Emerald Case preview](preview.png)
+
 ## Visual direction
 
 Emerald Case avoids turning the whole desktop neon green. Most surfaces stay charcoal, near-black, dusty brown, and desaturated gray-green. Emerald is reserved for focus, selection, active states, success, and small highlights so it feels like light cutting through darkness.
@@ -22,7 +24,7 @@ Emerald Case avoids turning the whole desktop neon green. Most surfaces stay cha
 | Accent | `#2fe07b` |
 | Bright emerald | `#49f397` |
 | Cyan / links | `#55a89b` |
-| Steel blue / directories | `#5f8fa3` |
+| Lantern teal / directories | `#4f8f83` |
 | Warning amber | `#d2ad5d` |
 | Urgent | `#cf666b` |
 
@@ -44,6 +46,9 @@ Then select **Emerald Case** from Omarchy's theme picker.
 .
 ├── backgrounds/
 ├── colors.toml
+├── preview.png
+├── chromium.theme
+├── shell.*.toml
 ├── LICENSE
 ├── MEDIA.md
 └── README.md
@@ -53,7 +58,7 @@ Omarchy generates the terminal, Hyprland, editor, browser, and related app color
 
 ## Status
 
-Active development preview. The theme is being tested on a real Omarchy desktop, including 2K wallpapers, terminal ANSI colors, shell surfaces, top bar, authentication dialogs, image picker, Chromium-family browsers, Zed through Omazed, Neovim through Aether, and Foot. The final registry `preview.png` is still pending.
+Release candidate for the Omarchy Theme Registry. The theme has been tested on a real Omarchy desktop with 2K wallpapers, terminal ANSI colors, shell surfaces, top bar, authentication dialogs, image picker, Chromium-family browsers, Zed through Omazed, Neovim through Aether, and Foot.
 
 ## Artwork
 
