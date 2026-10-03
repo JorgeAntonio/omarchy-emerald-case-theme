@@ -53,7 +53,7 @@ Omarchy generates the terminal, Hyprland, editor, browser, and related app color
 
 ## Status
 
-Active development preview. The theme is being tested on a real Omarchy desktop, including 2K wallpapers, the terminal ANSI palette, Emerald Case shell surfaces for launcher, menus, notifications, controls, lock screen, and the top bar. The final registry `preview.png` is still pending.
+Active development preview. The theme is being tested on a real Omarchy desktop, including 2K wallpapers, the terminal ANSI palette, Emerald Case shell surfaces for launcher, menus, notifications, controls, lock screen, top bar, authentication dialogs, image picker, and shared Hyprland border tokens. The final registry `preview.png` is still pending.
 
 ## Artwork
 
