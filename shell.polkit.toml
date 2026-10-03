@@ -1,0 +1,11 @@
+# Authentication / privilege dialogs
+background       = "#0d110e"
+background-alpha = 0.97
+text             = "#c9d2cc"
+text-error       = "#ed7f84"
+border           = "hyprland.active-border"
+border-error     = "#cf666b"
+border-alpha     = 0.82
+scrim            = "#050706"
+scrim-alpha      = 0.66
+accent           = "#49f397"
