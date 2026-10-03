@@ -49,11 +49,11 @@ Then select **Emerald Case** from Omarchy's theme picker.
 └── README.md
 ```
 
-Omarchy generates the terminal, shell, Hyprland, editor, browser, and related app colors from `colors.toml`. Additional supported theme overrides may be added later only where the base palette cannot express the intended look.
+Omarchy generates the terminal, Hyprland, editor, browser, and related app colors from `colors.toml`. Emerald Case also ships supported `shell.<section>.toml` overrides for launcher, menus, notifications, popups, tooltips, shared controls, and the lock screen, keeping the base palette intact while adding the theme's noir/emerald surface treatment.
 
 ## Status
 
-Active development preview. The theme is being tested on a real Omarchy desktop, including 2K wallpapers and the terminal ANSI palette. The final registry `preview.png` is still pending.
+Active development preview. The theme is being tested on a real Omarchy desktop, including 2K wallpapers, the terminal ANSI palette, and Emerald Case shell surfaces for launcher, menus, notifications, controls, and lock screen. The final registry `preview.png` is still pending.
 
 ## Artwork
 
