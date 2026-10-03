@@ -1,0 +1,41 @@
+# Emerald Case — optional Starship preset
+# Rural cosmic-noir prompt for Omarchy.
+# This file is intentionally opt-in: Omarchy themes do not replace ~/.config/starship.toml.
+
+add_newline = true
+command_timeout = 200
+
+format = """$directory$git_branch$git_status
+$character"""
+
+[character]
+success_symbol = "[◉](#2fe07b) [❯](bold #49f397)"
+error_symbol = "[◉](#cf666b) [✗](bold #ed7f84)"
+
+[directory]
+truncation_length = 3
+truncation_symbol = "…/"
+style = "#55a89b"
+repo_root_style = "bold #49f397"
+repo_root_format = "[$repo_root]($repo_root_style)[$path]($style)[$read_only]($read_only_style) "
+
+[git_branch]
+format = "[$symbol$branch]($style) "
+symbol = " "
+style = "italic #72c8b0"
+
+[git_status]
+format = "[$all_status$ahead_behind]($style)"
+style = "#d2ad5d"
+
+ahead = "[⇡${count}](#49f397) "
+behind = "[⇣${count}](#ed7f84) "
+diverged = "[⇕⇡${ahead_count}⇣${behind_count}](#e9c674) "
+conflicted = "[!](bold #ed7f84) "
+up_to_date = "[✓](#31d67b) "
+untracked = "[?](#e9c674) "
+modified = "[●](#d2ad5d) "
+stashed = "[≡](#9a7fab) "
+staged = "[+](#49f397) "
+renamed = "[»](#55a89b) "
+deleted = "[×](#cf666b) "
