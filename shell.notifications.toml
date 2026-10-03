@@ -2,6 +2,6 @@ background       = "#0d110e"
 background-alpha = 0.94
 text             = "#c9d2cc"
 border           = "rgba(2fe07bcc) rgba(12633d88) 45deg"
-border-alpha     = 0.68
+border-alpha     = 0.58
 border-width     = "1 1 1 3"
 countdown        = "#49f397"
