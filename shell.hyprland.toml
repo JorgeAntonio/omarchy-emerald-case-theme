@@ -1,0 +1,3 @@
+# Shared shell border tokens derived from Emerald Case's Hyprland border language.
+active-border            = "rgba(49f397ee) rgba(12633dcc) 45deg"
+active-border-foreground = "rgba(dce4dfee) rgba(49f397cc) 45deg"
