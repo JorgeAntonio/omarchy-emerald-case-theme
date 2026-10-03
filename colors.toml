@@ -29,3 +29,6 @@ bright_green = "#46ff92"
 bright_cyan = "#78c9a5"
 bright_blue = "#88aa9a"
 bright_magenta = "#a994ac"
+
+# Subtle emerald-to-deep-green active border used by Hyprland and shell surfaces.
+hyprland_active_border = "rgba(2fe07bee) rgba(12633dcc) 45deg"
